@@ -1,0 +1,65 @@
+@font-face {
+    font-family: 'MICEGothic Bold';
+    src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_2206-01@1.0/MICEGothic Bold.woff2') format('woff2');
+    font-weight: 700;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'MICEGothic';
+    src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_2206-01@1.0/MICEGothic.woff2') format('woff2');
+    font-weight: 400;
+    font-style: normal;
+}
+
+h1 {
+    font-size: 40px;
+    text-align: center;
+    margin: 0;
+    padding: 20px;
+    margin-bottom:200px;
+    font-family: 'MICEGothic Bold';
+
+}
+
+body {
+    font-family: 'MICEGothic';
+    width: 100vw;
+    height: 100vh;
+    background-color:#9F9F9F;
+    padding: 0;
+    margin: 0;
+}
+
+#detailImformation {
+    text-align: center;
+    width: 100vw;
+    height: 60px;
+    margin-left: auto; margin-right: auto;
+    font-weight: 590;
+    padding: 0;
+    margin: 0 auto;
+    line-height: 60px;
+}
+
+#subwayName {
+    text-align: center;
+    width: 100vw;
+    height: 150px;
+    margin-left: auto; margin-right: auto;
+    font-weight: bold;
+    font-size: 36px;
+    padding: 0;
+    margin: 0 auto;
+    line-height: 150px;
+}
+
+#nextSubway {
+    text-align: center;
+    width: 100vw;
+    height: 60px;
+    margin-left: auto; margin-right: auto;
+    font-weight: 590;
+    padding: 0;
+    margin: 0 auto;
+    line-height: 60px;
+}
