@@ -30,6 +30,7 @@ body {
     margin: 0;
 }
 
+/* 상세정보 박스 */
 #detailImformation {
     text-align: center;
     width: 100vw;
@@ -41,6 +42,7 @@ body {
     line-height: 60px;
 }
 
+/* 현재 역 이름 박스 */
 #subwayName {
     text-align: center;
     width: 100vw;
@@ -53,6 +55,7 @@ body {
     line-height: 150px;
 }
 
+/* 다음 역 박스 */
 #nextSubway {
     text-align: center;
     width: 100vw;
